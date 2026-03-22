@@ -3,7 +3,7 @@
 ![badge-placeholder](https://img.shields.io/badge/Java-v1.8+-green) ![badge-placeholder](https://img.shields.io/badge/Maven-v3.6.3-blue)
 
 ## Visão Geral do Projeto
-Este projeto tem como objetivo implementar um sistema bancário utilizando os princípios de Programação Orientada a Objetos (POO) em Java. Através desse desafio, os participantes aprenderão a aplicar conceitos de POO em um contexto prático.
+Este projeto tem como objetivo implementar um sistema bancário utilizando os princípios de Programação Orientada a Objetos (POO) em Java. 
 
 ## Objetivos
 - Aplicar os conceitos de POO em Java.
