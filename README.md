@@ -22,7 +22,7 @@ Este projeto tem como objetivo implementar um sistema bancário utilizando os pr
 - **Transferência**: Funcionalidade para transferir valores entre contas.
 - **Extrato**: Gera um relatório com o histórico de transações de uma conta.
 
-## Diagrama de Classes Sugerido
+## Diagrama de Classes
 ```
 +-----------------+
 |    Conta        |
@@ -41,32 +41,3 @@ Este projeto tem como objetivo implementar um sistema bancário utilizando os pr
 +-----------------+
 | + sacar()       |
 +-----------------+
-``` 
-
-## Como Rodar o Projeto
-1. Certifique-se de ter o Java JDK instalado (recomendado versão 1.8 ou superior).
-2. Caso utilize Maven, execute o comando: `mvn clean install`
-3. Para executar o projeto, utilize: `java -jar seu_arquivo.jar`
-
-## Estrutura do Projeto
-```
-/src
-  /main
-    /java
-      /br
-        /seu_pacote
-          - Conta.java
-          - ContaCorrente.java
-    /resources
-  /test
-```
-
-## Como Contribuir
-1. Faça um fork do projeto.
-2. Crie uma nova branch (`git checkout -b feature/YourFeature`).
-3. Faça suas alterações e commit (`git commit -m 'Adiciona nova funcionalidade'`).
-4. Envie para a branch (`git push origin feature/YourFeature`).
-5. Abra um Pull Request.
-
-## Licença
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
